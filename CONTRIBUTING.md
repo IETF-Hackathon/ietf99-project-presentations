@@ -1,4 +1,4 @@
-# Contributing to IETF Hackathon project
+# Contributing to IETF Hackathon projects
 
 Participation in IETF hackathons and contributing to this project is open to everyone. All participation and any contribution is subject to the IETF Note Well and the IPR and Code Contribution Guideline.
 
